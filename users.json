@@ -1,0 +1,32 @@
+[
+    {
+        "name": "",
+        "password": "",
+        "is_logged": "",
+        "lobby": ""
+    },
+    {
+        "name": "ada",
+        "password": "123",
+        "is_logged": "True",
+        "lobby": ""
+    },
+    {
+        "name": "qwe",
+        "password": "123",
+        "is_logged": "True",
+        "lobby": ""
+    },
+    {
+        "name": "ronaldo",
+        "password": "ronaldo",
+        "is_logged": "False",
+        "lobby": ""
+    },
+    {
+        "name": "luca",
+        "password": "123",
+        "is_logged": "True",
+        "lobby": ""
+    }
+]
